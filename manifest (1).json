@@ -1,0 +1,22 @@
+{
+  "name": "Panel Corporativo SAV",
+  "short_name": "Panel SAV",
+  "start_url": "./panel.html",
+  "display": "standalone",
+  "background_color": "#ff6c0e",
+  "theme_color": "#ff6c0e",
+  "icons": [
+    {
+      "src": "sav_icono.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "sav_icono.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
